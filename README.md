@@ -3,7 +3,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%5b00a6&lines=I+am+Andrei.+I+am+a+web+developer.)](https://git.io/typing-svg)
 
 ## I work with
-
+</br>
 <img align="left" alt="HTML5" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/html5.png"/>
 <img align="left" alt="СSS3" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/css3.png"/>
 <img align="left" alt="JS" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/javascript.png"/>
