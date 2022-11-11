@@ -14,8 +14,5 @@
 
 ## You can find me at
 
-[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vk.svg"/>][vk]
-[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/hh.png"/>][hh]
-</br>
-
-## 
+[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vk.svg"/>
+[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/hh.png"/>]
