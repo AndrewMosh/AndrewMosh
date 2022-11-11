@@ -21,8 +21,8 @@
 
 ## You can find me at
 
-[<img align="left" alt="VK" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vk.svg"/>][vk]
-[<img align="left" alt="VK" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/hh.png"/>][hh]
+[<img align="left" alt="VK" width="50px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vk.svg"/>][vk]
+[<img align="left" alt="VK" width="50px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/hh.png"/>][hh]
 
 [vk]: https://vk.com/andresmosh
 [hh]: https://hh.ru/applicant/resumes/view?resume=eea437efff09b6ad650039ed1f746e65487a4f
