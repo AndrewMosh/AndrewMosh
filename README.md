@@ -17,6 +17,7 @@
 <img align="left" alt="SQL" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
 </br>
 </br>
+
 ## You can find me at
 
 [<img align="left" alt="VK" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vk.svg"/>][vk]
