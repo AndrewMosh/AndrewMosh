@@ -14,7 +14,7 @@
 <img align="left" alt="GitHub" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/github.png"/>
 <img align="left" alt="Bootstrap" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/bootstrap.png"/>
 <img align="left" alt="Sass" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sass-5968358.png"/>
-<img align="left" alt="PHP" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/php.png"/>
+<img align="left" alt="PHP" width="30px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/php.png"/>
 <img align="left" alt="Python" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
 <img align="left" alt="SQL" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
 </br>
