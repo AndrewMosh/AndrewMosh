@@ -1,7 +1,7 @@
 <h1 align="center">Hi there! 👋 </h1>
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%red&lines=I+am+Andrei.+I+am+a+web+developer.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%26bd58&lines=I+am+Andrei.+I+am+a+web+developer.)](https://git.io/typing-svg)
 
 ## I work with
 
