@@ -1,5 +1,5 @@
-<h1 align="center">Hi there! 👋  I'm Andrei. I'm a web developer</h1>
-
+<h1 align="center">Hi there! 👋 </h1>
+I'm Andrei. I'm a web developer
 
 ## I work with
 
