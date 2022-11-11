@@ -5,8 +5,8 @@
 
 ## I work with
 
-<img align="left" alt="HTML5" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/html5.png"/>
-<img align="left" alt="СSS3" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/css3.png"/>
+<img align="left" alt="HTML5" width="35px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/html5.png"/>
+<img align="left" alt="СSS3" width="35px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/css3.png"/>
 <img align="left" alt="JS" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/javascript.png"/>
 <img align="left" alt="React" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/react.png"/>
 <img align="left" alt="VS" width="25px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vs-code.png"/>
