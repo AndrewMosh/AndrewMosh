@@ -1,16 +1,21 @@
-### Hi there 👋
+<h1 align="center">Hi there! 👋  I'm Andrei. I'm a web developer</h1>
 
-<!--
-**AndrewMosh/AndrewMosh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+## I work with
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align="left" alt="HTML5" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/html5.png"/>
+<img align="left" alt="СSS3" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/css3.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/javascript.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/react.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vs-code.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/git.png"/>
+<img align="left" alt="JS" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/github.png"/>
+</br>
+
+## You can find me at
+
+[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/vk.svg"/>][vk]
+[<img align="left" alt="VK" width="25px" src="https://github.com/ZerruKun/ZerruKun/blob/main/images/icons/hh.png"/>][hh]
+</br>
+
+## 
