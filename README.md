@@ -1,5 +1,5 @@
 <h1 align="center">Hi there! 👋 </h1>
-I'm Andrei. I'm a web developer
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=I+am+Andrei+.+I+am+a+web+developer)](https://git.io/typing-svg)
 
 ## I work with
 
