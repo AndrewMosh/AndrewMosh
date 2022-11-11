@@ -26,6 +26,6 @@
 
 [vk]: https://vk.com/andresmosh
 [hh]: https://hh.ru/applicant/resumes/view?resume=eea437efff09b6ad650039ed1f746e65487a4f
-
-##My hobbies
+</br>
+## My hobbies
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
