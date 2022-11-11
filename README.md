@@ -17,6 +17,7 @@
 <img align="left" alt="SQL" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
 </br>
 </br>
+</br>
 
 ## You can find me at
 
@@ -25,6 +26,9 @@
 
 [vk]: https://vk.com/andresmosh
 [hh]: https://hh.ru/applicant/resumes/view?resume=eea437efff09b6ad650039ed1f746e65487a4f
+</br>
+</br>
+</br>
 </br>
 
 ## I love programming
