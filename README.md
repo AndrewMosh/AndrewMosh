@@ -1,7 +1,3 @@
-<h1 align="center">Hi there! 👋 </h1>
-
-
-
 ## I work with
 <img align="left" alt="HTML5" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/html5.png"/>
 <img align="left" alt="СSS3" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/css3.png"/>
