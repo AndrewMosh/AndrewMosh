@@ -11,7 +11,7 @@
 <img align="left" alt="PHP" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/php.png"/>
 <img align="left" alt="Python" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
 <img align="left" alt="SQL" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
-<img align="left" alt="gulp" width="20px" height='20px' src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/gulp.png"/>
+<img align="left" alt="gulp" width="30px" height='20px' src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/gulp.png"/>
 </br>
 </br>
 
