@@ -19,7 +19,7 @@
 
 [<img align="left" alt="VK" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vk.svg"/>][vk]
 [<img align="left" alt="HH" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/hh.png"/>][hh]
-[<img align="left" alt="Habr" width="80px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/habr.png"/>][habr]
+[<img align="left" alt="Habr" width="90px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/habr.png"/>][habr]
 [<img align="left" alt="tg" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/tg.png"/>][tg]
 
 [vk]: https://vk.com/andresmosh
