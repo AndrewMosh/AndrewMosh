@@ -33,6 +33,6 @@
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh&langs_count=8)](https://github.com/AndrewMosh/github-readme-stats)
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=radical)
