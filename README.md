@@ -17,12 +17,12 @@
 
 ## You can find me at
 
-[<img align="left" alt="VK" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vk.svg"/>][vk]
+
 [<img align="left" alt="HH" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/hh.png"/>][hh]
 [<img align="left" alt="Habr" width="90px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/habr.png"/>][habr]
 [<img align="left" alt="tg" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/telegram.svg"/>][tg]
 
-[vk]: https://vk.com/andresmosh
+
 [hh]: https://hh.ru/applicant/resumes/view?resume=eea437efff09b6ad650039ed1f746e65487a4f
 [habr]: https://career.habr.com/andrewmosh
 [tg]: https://t.me/Andrew_Mosh
