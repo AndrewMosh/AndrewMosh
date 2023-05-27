@@ -42,3 +42,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh&langs_count=8)](https://github.com/AndrewMosh/github-readme-stats)
 </br>
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=radical)
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh" alt="AndrewMosh" /></a> </p>
