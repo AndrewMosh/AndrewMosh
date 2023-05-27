@@ -13,7 +13,7 @@
 </br>
 
 ## Backend
-<img align="left" alt="NodeJs" width="50px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/nodejs.svg"/>
+<img align="left" alt="NodeJs" width="90px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/nodejs.svg"/>
 <img align="left" alt="Mongodb" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
 <img align="left" alt="express" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/gulp.png"/>
 <img align="left" alt="PHP" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/php.png"/>
