@@ -14,12 +14,12 @@
 </br>
 
 ## Backend
-<img align="left" alt="NodeJs" width="100px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/nodejs.svg"/>
-<img align="left" alt="Mongodb" width="50px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/mongodb.svg"/>
+<img align="left" alt="NodeJs" title='NodeJs' width="100px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/nodejs.svg"/>
+<img align="left" alt="Mongodb" title='Mongodb' width="50px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/mongodb.svg"/>
 <img align="left" alt="express" width="100px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/expressjs-ar21.svg"/>
-<img align="left" alt="PHP" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/php.png"/>
-<img align="left" alt="Python" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
-<img align="left" alt="SQL" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
+<img align="left" alt="PHP" title='PHP' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/php.png"/>
+<img align="left" alt="Python" title='Python' width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
+<img align="left" alt="SQL" title='SQL' width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
 </br>
 </br>
 
