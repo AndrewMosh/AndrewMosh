@@ -43,8 +43,11 @@
 <div >
   <img src="https://api.githubtrends.io/user/svg/AndrewMosh/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
+<table>
+  <tr>
+    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewMosh&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
+  </tr> 
+</table>
 
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh" alt="AndrewMosh" /></a> </p>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndrewMosh)](https://github.com/AndrewMosh) -->
