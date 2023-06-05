@@ -40,6 +40,7 @@
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
 </br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh&layout=compact)](https://github.com/AndrewMosh/github-readme-stats)
 <table >
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewMosh&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
