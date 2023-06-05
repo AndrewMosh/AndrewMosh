@@ -40,8 +40,8 @@
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
 </br>
-<div align="center">
-  <img align="center" src="https://api.githubtrends.io/user/svg/AndrewMosh/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
+<div >
+  <img src="https://api.githubtrends.io/user/svg/AndrewMosh/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
 </div>
 
 
