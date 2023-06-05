@@ -40,9 +40,6 @@
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
 </br>
-<div >
-  <img src="https://api.githubtrends.io/user/svg/AndrewMosh/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div>
 <table>
   <tr>
     <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewMosh&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
