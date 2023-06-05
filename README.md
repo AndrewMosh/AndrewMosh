@@ -49,8 +49,5 @@
       <img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
     </a>
 </div>
-<div>
-  <img  src="https://api.githubtrends.io/user/svg/AndrewMosh/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=synthwaves">
-</div>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndrewMosh)](https://github.com/AndrewMosh) -->
