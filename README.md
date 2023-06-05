@@ -49,5 +49,6 @@
       <img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
     </a>
 </div>
+[![Andrew's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=AndrewMosh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndrewMosh)](https://github.com/AndrewMosh) -->
