@@ -50,5 +50,5 @@
       <img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
     </a>
 </div>
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewMosh&theme=solarized_dark)
+
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndrewMosh)](https://github.com/AndrewMosh) -->
