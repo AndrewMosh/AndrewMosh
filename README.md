@@ -40,15 +40,17 @@
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
 </br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh&layout=compact)](https://github.com/AndrewMosh/github-readme-stats)
-<table >
-  <tr>
-    <td><img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AndrewMosh&theme=monokai"  display=block width=100% height=auto  alt="1" ></td>
-  </tr> 
-</table>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh)](https://github.com/anuraghazra/github-readme-stats)
+
 <div >
       <img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
     </a>
 </div>
+ 
+ 
+ 
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=transparent)
+
+
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndrewMosh)](https://github.com/AndrewMosh) -->
