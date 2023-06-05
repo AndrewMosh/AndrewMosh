@@ -49,6 +49,15 @@
       <img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
     </a>
 </div>
-(https://github-readme-activity-graph.cyclic.app/graph?username=AndrewMosh&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<div >
+  <img src="https://github-readme-stats.vercel.app/api?username=AndrewMosh&theme=monokai&hide_border=false&include_all_commits=true&count_private=true">
+  <br>
+  <br>
+  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=AndrewMosh&theme=monokai&hide_border=false">
+  <br>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh&langs_count=10&title_color=E11299&text_color=FFB26B&icon_color=0891b2&bg_color=272822&hide_border=false&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+  <br>
+</div>
 
 <!-- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AndrewMosh)](https://github.com/AndrewMosh) -->
