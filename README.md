@@ -2,6 +2,7 @@
 <img align="left" alt="HTML5" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/html5.png"/>
 <img align="left" alt="СSS3" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/css3.png"/>
 <img align="left" alt="JS" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/javascript.png"/>
+<img align="left" alt="TS" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/ts.svg"/>
 <img align="left" alt="React" title='React' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/react.png"/>
 <img align="left" alt="VS"  title='VS code' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vs-code.png"/>
 <img align="left" alt="Git" title='Git' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/git.png"/>
