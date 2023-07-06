@@ -24,7 +24,7 @@
 </br>
 </br>
 
-## You can find me at
+## You can find me on
 
 
 [<img align="left" alt="Habr" width="90px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/habr.png"/>][habr]
