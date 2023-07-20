@@ -24,18 +24,6 @@
 </br>
 </br>
 
-## You can find me on
-
-
-[<img align="left" alt="Habr" width="90px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/habr.png"/>][habr]
-[<img align="left" alt="tg" width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/telegram.svg"/>][tg]
-
-
-
-[habr]: https://career.habr.com/andrewmosh
-[tg]: https://t.me/Andrew_Mosh
-</br>
-</br>
 
 ## I love programming
 
