@@ -11,6 +11,8 @@
 <img align="left" alt="Sass" title='Sass' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sass-5968358.png"/>
 <img align="left" alt="gulp" title='Gulp' width="50px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/gulp.png"/>
 <img align="left" alt="redux" title='Redux' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/redux-icon.svg"/>
+<img align="left" alt="electron" title='Electron' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/electron.svg"/>
+
 </br>
 </br>
 
