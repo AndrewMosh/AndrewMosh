@@ -22,6 +22,7 @@
 <img align="left" alt="express" width="100px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/expressjs-ar21.svg"/>
 <img align="left" alt="Python" title='Python' width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
 <img align="left" alt="SQL" title='SQL' width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
+<img align="left" alt="Redis" title='Redis' width="95px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/redis.svg"/>
 </br>
 </br>
 
