@@ -36,6 +36,9 @@
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
 </br>
+![Codewars](https://github.r2v.ch/codewars?user=AndrewMosh)  
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=radical)
+</br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrewMosh)](https://github.com/anuraghazra/github-readme-stats)
 
 <div >
