@@ -32,7 +32,7 @@
 </br>
 </br>
 
-## I love programming
+## Miscellaneous Stats
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
 </br>
