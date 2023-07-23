@@ -23,6 +23,7 @@
 <img align="left" alt="Python" title='Python' width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
 <img align="left" alt="SQL" title='SQL' width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
 <img align="left" alt="Redis" title='Redis' width="95px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/redis.svg"/>
+<img align="left" alt="GraphQL" title='GraphQL' width="95px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/graphql.svg"/>
 </br>
 </br>
 
