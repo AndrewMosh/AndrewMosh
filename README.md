@@ -5,8 +5,6 @@
 <img align="left" alt="TS" width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/ts.svg"/>
 <img align="left" alt="React" title='React' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/react.png"/>
 <img align="left" alt="VS"  title='VS code' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vs-code.png"/>
-<img align="left" alt="Git" title='Git' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/git.png"/>
-<img align="left" alt="GitHub" title='GitHub' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/github.png"/>
 <img align="left" alt="Bootstrap" title='Bootstrap' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/bootstrap.png"/>
 <img align="left" alt="Sass" title='Sass' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sass-5968358.png"/>
 <img align="left" alt="gulp" title='Gulp' width="50px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/gulp.png"/>
@@ -23,9 +21,15 @@
 <img align="left" alt="SQL" title='SQL' width="45px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
 <img align="left" alt="Redis" title='Redis' width="95px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/redis.svg"/>
 <img align="left" alt="GraphQL" title='GraphQL' width="95px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/graphql.svg"/>
+
 </br>
 </br>
 
+## DevOps
+<img align="left" alt="Git" title='Git' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/git.png"/>
+<img align="left" alt="GitHub" title='GitHub' width="40px" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/github.png"/>
+</br>
+</br>
 
 ## I love programming
 
