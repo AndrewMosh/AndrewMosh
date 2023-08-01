@@ -24,6 +24,7 @@
 <img align="left" alt="Redis" title='Redis' width="9.5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/redis.svg"/>
 <img align="left" alt="GraphQL" title='GraphQL' width="9.5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/graphql.svg"/>
 <img align="left" alt="Websocket" title='Websocket' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/websocket.svg"/>
+<img align="left" alt="Postgresql" title='Postgresql' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/Postgresql.svg..png"/>
 
 </br>
 </br>
