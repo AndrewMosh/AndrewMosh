@@ -43,8 +43,8 @@
 ![Codewars](https://github.r2v.ch/codewars?user=AndrewMosh)  
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=radical)
 </br>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=AndrewMosh&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="AndrewMosh"/></p>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=AndrewMosh&langs_count=12)
 
 <div >
       <img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
