@@ -18,6 +18,7 @@
 ## Backend
 
 <img align="left" alt="NodeJs" title='NodeJs' width="10%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/nodejs.svg"/>
+<img align="left" alt="Python" title='Python' width="5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
 <img align="left" alt="Mongodb" title='Mongodb' width="5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/mongodb.svg"/>
 <img align="left" alt="express" width="10%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/expressjs-ar21.svg"/>
 <img align="left" alt="SQL" title='SQL' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
