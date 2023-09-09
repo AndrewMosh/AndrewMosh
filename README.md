@@ -33,6 +33,7 @@
 
 <img align="left" alt="Git" title='Git' width="4%"  src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/git.png"/>
 <img align="left" alt="GitHub" title='GitHub' width="4%"  src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/github.png"/>
+<img align="left" alt="Docker" title='Docker' width="4%"  src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/docker-4.svg"/>
 </br>
 </br>
 
