@@ -1,12 +1,9 @@
 # My Tech Stack
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql,chakra,&perline=17)](https://skillicons.dev)
-</br>
-</br>
 
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql,chakra,&perline=20)](https://skillicons.dev)
 ## Backend
-
 <img align="left" alt="NodeJs" title='NodeJs' width="10%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/nodejs.svg"/>
 <img align="left" alt="Python" title='Python' width="5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
 <img align="left" alt="Mongodb" title='Mongodb' width="5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/mongodb.svg"/>
