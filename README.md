@@ -12,8 +12,8 @@
 
 ### Visitors Count: <img align="center" src="https://profile-counter.glitch.me/{AndrewMosh}/count.svg"/>
 <div>
- <img style='width:41%;' src="https://github.r2v.ch/codewars?user=AndrewMosh" /> 
- <img style='width:29%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmosh&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
+ <img style='width:51%;' src="https://github.r2v.ch/codewars?user=AndrewMosh" /> 
+ <img style='width:36%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmosh&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
 
 
