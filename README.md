@@ -1,7 +1,7 @@
 # My Tech Stack
 
 ## Frontend
-
+[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
 <img align="left" alt="HTML5" width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/html5.png"/>
 <img align="left" alt="СSS3" width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/css3.png"/>
 <img align="left" alt="JS" width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/javascript.png"/>
