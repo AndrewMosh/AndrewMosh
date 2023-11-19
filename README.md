@@ -20,17 +20,9 @@
 </div>
 
 <div align='center'>
-      
-  [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
-  <br>
-![Codewars](https://github.r2v.ch/codewars?user=AndrewMosh)  
-
-
-
-
-![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?theme=dark&username=AndrewMosh&langs_count=12)
+ 
+ 
+![Codewars](https://github.r2v.ch/codewars?user=AndrewMosh)     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmosh&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
 </div>
 
