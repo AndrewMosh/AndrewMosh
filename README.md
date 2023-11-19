@@ -2,29 +2,11 @@
 
 ## Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql,chakra,&perline=20)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql&perline=10)](https://skillicons.dev)
 ## Backend
-<img align="left" alt="NodeJs" title='NodeJs' width="10%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/nodejs.svg"/>
-<img align="left" alt="Python" title='Python' width="5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/python.png"/>
-<img align="left" alt="Mongodb" title='Mongodb' width="5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/mongodb.svg"/>
-<img align="left" alt="express" width="10%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/expressjs-ar21.svg"/>
-<img align="left" alt="SQL" title='SQL' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sql-file-8422279.png"/>
-<img align="left" alt="Redis" title='Redis' width="9.5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/redis.svg"/>
-<img align="left" alt="GraphQL" title='GraphQL' width="9.5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/graphql.svg"/>
-<img align="left" alt="Websocket" title='Websocket' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/websocket.svg"/>
-<img align="left" alt="Postgresql" title='Postgresql' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/Postgresql.svg..png"/>
-
-</br>
-</br>
-
+[![My Skills](https://skillicons.dev/icons?i=nodejs,python,mongodb,express,redis,postgresql,django,firebase&perline=10)](https://skillicons.dev)
 ## DevOps
-
-<img align="left" alt="Git" title='Git' width="4%"  src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/git.png"/>
-<img align="left" alt="GitHub" title='GitHub' width="4%"  src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/github.png"/>
-<img align="left" alt="Docker" title='Docker' width="4%"  src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/docker-4.svg"/>
-</br>
-</br>
-
+[![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&perline=10)](https://skillicons.dev)
 ## Miscellaneous Stats
 
 [![codewars](https://www.codewars.com/users/AndrewMosh/badges/large)](https://www.codewars.com/users/AndrewMosh)
