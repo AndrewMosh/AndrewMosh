@@ -2,7 +2,7 @@
 
 ## Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql&perline=20)](https://skillicons.dev)
 ## Backend
 [![My Skills](https://skillicons.dev/icons?i=nodejs,python,mongodb,express,redis,postgresql,django,firebase&perline=10)](https://skillicons.dev)
 ## DevOps
