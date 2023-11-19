@@ -1,7 +1,7 @@
 # My Tech Stack
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql,chakra,&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql,chakra,&perline=17)](https://skillicons.dev)
 </br>
 </br>
 
