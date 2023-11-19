@@ -1,19 +1,7 @@
 # My Tech Stack
 
 ## Frontend
-[![My Skills](https://skillicons.dev/icons?i=aws,gcp,azure,react,vue,flutter&perline=3)](https://skillicons.dev)
-<img align="left" alt="HTML5" width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/html5.png"/>
-<img align="left" alt="СSS3" width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/css3.png"/>
-<img align="left" alt="JS" width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/javascript.png"/>
-<img align="left" alt="TS" width="4.7%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/ts.svg"/>
-<img align="left" alt="React" title='React' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/react.png"/>
-<img align="left" alt="VS"  title='VS code' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/vs-code.png"/>
-<img align="left" alt="Bootstrap" title='Bootstrap' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/bootstrap.png"/>
-<img align="left" alt="Sass" title='Sass' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/free-icon-sass-5968358.png"/>
-<img align="left" alt="gulp" title='Gulp' width="5%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/gulp.png"/>
-<img align="left" alt="redux" title='Redux' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/redux-icon.svg"/>
-<img align="left" alt="electron" title='Electron' width="4%" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/electron.svg"/>
-
+[![My Skills](https://skillicons.dev/icons?i=react,js,css,sass,html,ts,vscode,gulp,redux,electron,bootstrap,webpack,vite,jest,figma,apollo,vue,angular,next,graphql,chakra,&perline=12)](https://skillicons.dev)
 </br>
 </br>
 
