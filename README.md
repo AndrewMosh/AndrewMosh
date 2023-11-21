@@ -26,7 +26,9 @@
 
 ## Contacts
 
-<p><a href="https://andrewmosh.github.io/portfolio/"><img src="https://img.shields.io/badge/-andrewmosh-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://t.me/andrew_mosh"><img src="https://img.shields.io/badge/-@andrew_mosh-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=telegram&amp;link=https:https://t.me/andrew_mosh" alt="tg Badge"></a> <a href="https://img.shields.io/badge/-mosh.andrew@yandex.ru-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mosh.andrew@yandex.ru"><img src="https://img.shields.io/badge/-mosh.andrew@yandex.ru-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=Gmail&amp;link=https:mailto:mosh.andrew@yandex.ru" alt="mail Badge"></a> 
+<p><a href="https://andrewmosh.github.io/portfolio/"><img src="https://img.shields.io/badge/-andrewmosh-4E69C8?style=flat-square&amp;labelColor=4E69C8&amp;logo=Firefox&amp;link=https://stanleylim.me" alt="Website Badge"></a> <a href="https://t.me/andrew_mosh"><img src="https://img.shields.io/badge/-@andrew_mosh-14c767?style=flat-square&amp;labelColor=14c767&amp;logo=telegram&amp;link=https:https://t.me/andrew_mosh" alt="tg Badge"></a>
+ 
+ [![Gmail Badge](https://img.shields.io/badge/-mosh.andrew@yandex.ru-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:mosh.andrew@yandex.ru)](mailto:mosh.andrew@yandex.ru)
 
 
 
