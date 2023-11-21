@@ -1,5 +1,3 @@
-<img alt="GIF" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/aesthetic-discord.gif?raw=true"/>
-
 # My Tech Stack
 
 ## Frontend
