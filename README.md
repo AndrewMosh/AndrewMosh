@@ -1,3 +1,5 @@
+<img align="right" alt="GIF" src="https://github.com/AndrewMosh/AndrewMosh/blob/main/icons/7270403.gif?raw=true"/>
+
 # My Tech Stack
 
 ## Frontend
