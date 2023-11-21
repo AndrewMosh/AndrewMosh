@@ -9,8 +9,8 @@
 [![My Skills](https://skillicons.dev/icons?i=git,github,docker,linux&perline=10)](https://skillicons.dev)
 ## Miscellaneous Stats
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=AndrewMosh)
 
-### Visitors Count: <img align="center" src="https://profile-counter.glitch.me/{AndrewMosh}/count.svg"/>
 <div>
  <img style='width:58%;' src="https://github.r2v.ch/codewars?user=AndrewMosh" /> 
  <img style='width:41%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmosh&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
