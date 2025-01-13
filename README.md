@@ -18,8 +18,6 @@
 
 
      
-<img src="https://github-profile-trophy.vercel.app/?username=AndrewMosh&theme=discord&no-frame=false&no-bg=false&margin-w=4&column=8">
-  
 
 </div>
 </div>
