@@ -16,6 +16,7 @@
  <img style='width:41%;' src="https://github-readme-stats.vercel.app/api/top-langs/?username=andrewmosh&layout=compact&show_icons=true&title_color=ffffff&icon_color=34abeb&text_color=daf7dc&bg_color=151515" />
 
 
+![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=onedark)
 
      
 
