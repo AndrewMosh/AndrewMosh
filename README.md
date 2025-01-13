@@ -12,7 +12,7 @@
 ![Profile View Counter](https://komarev.com/ghpvc/?username=AndrewMosh)
 
 <div>
- <img style='width:46%;' src="https://github.r2v.ch/codewars?user=AndrewMosh" /> 
+ <img style='width:56%;' src="https://github.r2v.ch/codewars?user=AndrewMosh" /> 
  
 ![Andrew's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndrewMosh&show_icons=true&theme=onedark)
 
